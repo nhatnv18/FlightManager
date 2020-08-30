@@ -29,8 +29,11 @@ c/ Đặt vé: cho phép đặt vé trên 1 chuyến bay.
 
 d/ Hủy vé: cho phép hủy vé đã đặt của hành khách.
 
-e/ In danh sách các hành khách thuộc 1 chuyến bay dựa vào mã chuyến bay. Kết xuất:
-            DANH SÁCH HÀNH KHÁCH THUỘC CHUYẾN BAY ######
+e/ In danh sách các hành khách thuộc 1 chuyến bay dựa vào mã chuyến bay.
+
+Kết xuất:
+
+	DANH SÁCH HÀNH KHÁCH THUỘC CHUYẾN BAY ######
 
     Ngày giờ khởi hành: dd/mm/yyyy hh:mm. Nơi đến : xxxxxxxxxxx
 
